@@ -26,13 +26,6 @@ A Discord Tipping bot written in Python
 * Click ***Yes, do it!***
 <!--Images-->
 ![Yes, do it!](Yes-do-it.jpg)
-* in a Terminal window
-<!-- PowerShell script block -->
-```powershell
-New-Item -Type Directory -Path .\ -Name Discord-Bot-Tipping-Python
-Set-Location -Path .\Discord-Bot-Tipping-Python\
-Copy-Item -Path .\.env_example -Destination .\.env
-```
 <!-- links -->
 >> [Install Scoop](https://scoop.sh/)
 * in a Terminal window - right-click -> Run as administrator
@@ -54,6 +47,9 @@ GRANT CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, SELECT, REFERENCES, RELOAD on
 FLUSH PRIVILEGES;
 SHOW GRANTS FOR 'pydiscbot'@'localhost';
 exit;
+git clone https://github.com/yourwishismine1989/Discord-Bot-Tipping-Python.git
+Set-Location -Path .\Discord-Bot-Tipping-Python
+Copy-Item -Path .\.env_example -Destination .\.env
 code .\.env
 ```
 * In the Discord Developer Portal click ***Copy*** to copy your bot's private TOKEN (always keep this private)
