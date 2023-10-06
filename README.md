@@ -117,7 +117,7 @@ BOTCURRENCY = 'TippingBotCoin'
 >> Click ***Authorize***
 <!--Images-->
 ![Authorize the bot](Authorize-Bot.jpg)
-* The bot (which still needs the code written for) should now be OFFLINE on your server, next we will write the code to make the bot perform
+* The bot should now be OFFLINE on your server
 <!--Images-->
 ![Bot OFFLINE on server](Offline-Bot.jpg)
 * back in the terminal
