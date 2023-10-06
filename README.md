@@ -147,3 +147,5 @@ python bot.py
 * For getting Python setup on your Computer, see my Getting Started tutorial here
 <!-- links -->
 * [Python - Getting Started](https://github.com/yourwishismine1989/Python_Getting-Started)
+* I borrowed the images for this course from my Discord-Bot-Python documentation, you can see that here:
+* [Discord-Bot-Python](https://github.com/yourwishismine1989/Discord-Bot-Python)
